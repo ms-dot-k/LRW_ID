@@ -20,7 +20,7 @@ The dataset splits can be found in the `Splits` directory.
 For the dataset information, please refer our paper.
 
 ### Contributing
-For more accurate speaker labeling, improving label information is welcome.
+For more accurate speaker information, we welcome your participation in improving label information.
 
 ## Citation
 If you use the identity labeled LRW dataset, LRW-ID, please cite the paper:
