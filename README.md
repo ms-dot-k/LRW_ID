@@ -22,7 +22,7 @@ For the dataset information, please refer our paper.
 ### Contributing
 For more accurate speaker information, we welcome your participation in improving label information.
 
-## Citation
+<!--## Citation
 If you use the identity labeled LRW dataset, LRW-ID, please cite the paper:
 ```
 @article{kim2022distinguishing,
@@ -31,3 +31,4 @@ If you use the identity labeled LRW dataset, LRW-ID, please cite the paper:
   year={2022}
 }
 ```
+-->
