@@ -6,6 +6,7 @@ This repository contains the speaker labeled information of LRW audio-visual dat
 
 ## Data structure
 `LRW_ID_v1.0.txt` contains the speaker ID for each video.
+The total number of labeled speakers is 17,580. (0 ~ 17,579)
 Each line contains speaker ID number and its corresponding video name.
 ```shell
 #Example
