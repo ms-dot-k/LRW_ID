@@ -1,5 +1,5 @@
 # LRW_ID
-This repository contains the speaker labeled information of LRW dataset, which is the outcome of the following paper:
+This repository contains the speaker labeled information of LRW audio-visual dataset, which is the outcome of the following paper:
 > **Speaker-adaptive Lip Reading with User-dependent Padding**<br>
 > Minsu Kim, Hyunjun Kim, and Yong Man Ro<br>
 > \[[Paper](link)\]
