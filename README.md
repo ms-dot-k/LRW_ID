@@ -18,7 +18,13 @@ The line represents that the speaker ID of video SERVICES/train/SERVICES_00456.m
 In order to build unseen-speaker scenario (train and test speakers are not overlapped), 20 speakers are selected for test and validation (adaptation).
 The dataset splits can be found in the `Splits` directory.
 
-For the dataset information, please refer our paper.
+<div align="center"><img width="50%" src="img/Split_info.PNG?raw=true" /></div>
+<div align="center">LRW_ID data splits. </div>
+
+<div align="center"><img width="80%" src="img/Speaker_info.PNG?raw=true" /></div>
+<div align="center">20 speakers in the test set. They are not overlapped with the speakers in the train set. </div>
+
+For more information, please refer to our paper.
 
 ### Contributing
 For more accurate speaker information, we welcome your participation in improving label information.
