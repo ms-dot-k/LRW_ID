@@ -19,11 +19,11 @@ In order to build unseen-speaker scenario (train and test speakers are not overl
 The dataset splits can be found in the `Splits` directory.
 
 <div align="center"><img width="40%" src="img/Split_info.PNG?raw=true" /></div>
-<div align="center"> **LRW_ID data splits.** </div>
+<div align="center"> Table 1. LRW_ID data splits. </div>
 <br>
 <br>
 <div align="center"><img width="80%" src="img/Speaker_info.PNG?raw=true" /></div>
-<div align="center"> **20 speakers in the test set. They are not overlapped with the speakers in the train set.** </div>
+<div align="center"> Table 2. 20 speakers in the test set. They are not overlapped with the speakers in the train set. </div>
 <br>
 <br>
 For more information, please refer to our paper.
