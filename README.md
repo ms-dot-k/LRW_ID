@@ -2,7 +2,7 @@
 This repository contains the speaker labeled information of LRW audio-visual dataset, which is the outcome of the following paper:
 > **Speaker-adaptive Lip Reading with User-dependent Padding**<br>
 > Minsu Kim, Hyunjun Kim, and Yong Man Ro<br>
-> \[[Paper](link)\]
+> \[[Paper]https://arxiv.org/abs/2208.04498\]
 
 ## Data structure
 `LRW_ID_v1.0.txt` contains the speaker ID for each video.
@@ -31,13 +31,13 @@ For more information, please refer to our paper.
 ### Contributing
 For more accurate speaker information, we welcome your participation in improving label information.
 
-<!--## Citation
+## Citation
 If you use the identity labeled LRW dataset, LRW-ID, please cite the paper:
 ```
-@article{kim2022distinguishing,
-  title={Distinguishing Homophenes using Multi-head Visual-audio Memory for Lip Reading},
-  author={Kim, Minsu and Yeo, Jeong Hun and Ro, Yong Man},
+@article{kim2022speaker,
+  title={Speaker-adaptive Lip Reading with User-dependent Padding},
+  author={Kim, Minsu and Kim, Hyunjun and Ro, Yong Man},
+  journal={arXiv preprint arXiv:2208.04498},
   year={2022}
 }
 ```
--->
