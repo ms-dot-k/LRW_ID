@@ -34,10 +34,12 @@ For more accurate speaker information, we welcome your participation in improvin
 ## Citation
 If you use the identity labeled LRW dataset, LRW-ID, please cite the paper:
 ```
-@article{kim2022speaker,
-  title={Speaker-adaptive Lip Reading with User-dependent Padding},
+@inproceedings{kim2022speaker,
+  title={Speaker-adaptive lip reading with user-dependent padding},
   author={Kim, Minsu and Kim, Hyunjun and Ro, Yong Man},
-  journal={arXiv preprint arXiv:2208.04498},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  pages={576--593},
+  year={2022},
+  organization={Springer}
 }
 ```
